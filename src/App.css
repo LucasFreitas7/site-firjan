@@ -1,0 +1,236 @@
+.App {
+  text-align: center;
+  background-color: #68A8F4;
+  color: rgb(245, 245, 245);
+  
+}
+@media (min-width: 768px) {
+  .App-header
+{
+ 
+
+
+}
+}
+@media (min-width: 1200px) {
+  .App-header{
+
+ background-image: url("./imagens/background.png");
+ background-repeat: no-repeat;
+ background-size:100%;
+ width: 100%;
+  }
+
+}
+.App-logo {
+  width: 210px;
+  height: 210px;
+  pointer-events: none;
+}
+.App-text1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2.0rem;
+  line-height: 2.1rem;
+
+}
+.App-text2{
+  text-align: left;
+  align-items: baseline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 4.0rem;
+  line-height: 4.7rem;
+  color: #E8B53F;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-button {
+  background: #2C28ED;
+  border-radius: 10px;
+}
+.App-text3{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.8rem;
+  line-height: 2.1rem;
+  
+  color: #2C28ED;
+}
+.App-text4{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  color: black;
+
+}
+.App-text5{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  color: rgb(255, 255, 255);
+
+}
+.App-text6{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 999;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+
+}
+.App-teste{
+  background-color: #ffffff;
+  flex-direction: row;
+}
+.teste-cor{
+  background-color: rgb(4, 4, 4);
+}
+.App-teste2{
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: #ffffff;
+
+}
+.App-mao{
+  margin-right: 500px;
+}
+
+.App-info{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.App-info-final{
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color:#68A8F4;
+}
+.App-info-termos{
+  align-items: center;
+  background-color:#68A8F4;
+}
+.App-termos{
+  align-items: center;
+  background-color: #68A8F4;
+}
+.App-text7{
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 3.5rem;
+  
+  color: #ffffff;
+}
+.App-text8{
+  text-align: left;
+  align-items: baseline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2.0rem;
+  line-height: 2.1rem;
+  color: #2C28ED;
+}
+.App-text9{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 1.2rem;
+
+}
+.App-text10{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 3.5rem;
+  
+  color: #2C28ED;
+}
+
+.App-text11{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  
+  color: #2C28ED;
+}
+
+.App-text12{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  
+  color: #070707;
+}
+
+.App-text13{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 2.0rem;
+  line-height: 2.6rem;
+  
+  color: #ffffff;
+}
+.App-foguete{
+
+  width: 90px;
+  height: 94px;
+}
+
+.App-img1{
+  background-color: rgb(255, 255, 255);
+}
+.App-img2{
+  background-color: rgb(255, 255, 255);
+}
+.App-digital{
+  margin-top: 15px;
+  margin-inline: 15px;
+}
+.App-analise{
+  margin-top: 2.5%;
+  margin-inline: 15px;
+}
+.App-receba{
+  margin-top: 15px;
+  margin-inline: 15px;
+}
+.App-juros{
+  margin-top: 15px;
+  margin-inline: 15px;
+}
+.posicao{
+  color: black;
+}
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
